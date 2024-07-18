@@ -1,0 +1,17 @@
+{
+    "Usuarios": {
+        "123456": {
+            "documento": 123456,
+            "Nombres": "Kevin",
+            "Apellidos": "Romero",
+            "Telefono": 111
+        }
+    },
+    "Administrador":{
+        "soy_el_admin":{
+            "Nombres" : "Juan",
+            "Apellidos" : "Mariño",
+            "Fecha de nacimiento" : "24/08/1996"
+        }
+    }
+}
