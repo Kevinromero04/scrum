@@ -7,11 +7,29 @@
             "Telefono": 111
         }
     },
-    "Administrador":{
-        "soy_el_admin":{
-            "Nombres" : "Juan",
-            "Apellidos" : "Mariño",
-            "Fecha de nacimiento" : "24/08/1996"
+    "Administrador": {
+        "soy_el_admin": {
+            "Nombres": "Juan",
+            "Apellidos": "Marino",
+            "Fecha de nacimiento": "24/08/1996"
+        },
+        "561": {
+            "documento": 561,
+            "Nombres": "fdsfds",
+            "Apellidos": "fdgdf",
+            "Telefono": 3434
+        },
+        "fdsf": {
+            "documento": 66,
+            "Nombres": "fhfh",
+            "Apellidos": "hfgh",
+            "Telefono": 0
+        },
+        "hhgfbdf": {
+            "documento": 543654654,
+            "Nombres": "bdsfgds",
+            "Apellidos": "fgdhs",
+            "Telefono": 98
         }
     }
 }

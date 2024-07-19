@@ -10,10 +10,12 @@ def usuario():
     else:
         datos["Nombres"] = str(input("Digite sus nombres "))
         datos["Apellidos"] = str(input("Digite sus apellidos "))
+    try:
         datos["Telefono"] = int(input("Digite su numero de telefono "))
+    except Exception:
+        print("numero invalido")
         bibli["Usuarios"][documento] = datos
         car.guardar(bibli)
         print("Felicitaciones su usuario se ha creado satisfactoriamente ")
         print("*******************************************")
 
-usuario()
