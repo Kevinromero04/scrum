@@ -1,0 +1,35 @@
+{
+    "Celulares": {
+        "Iphone": {
+            "13 pro": {
+                "Precio": 24342,
+                "Cantidad": 4
+            }
+        },
+        "Samsung": {
+            "M2": {
+                "Precio": 679999,
+                "Cantidad": 9
+            },
+            "J2": {
+                "Precio": 12000,
+                "Cantidad": 8
+            }
+        }
+    },
+    "PC": {},
+    "Tablets": {
+        "Iphone": {
+            "pro": {
+                "Precio": 13333,
+                "Cantidad": 5
+            }
+        },
+        "Samsung": {
+            "macbock": {
+                "Precio": 45666,
+                "Cantidad": 4
+            }
+        }
+    }
+}
