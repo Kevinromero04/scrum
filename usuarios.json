@@ -1,35 +1,36 @@
 {
     "Usuarios": {
-        "123456": {
-            "documento": 123456,
-            "Nombres": "Kevin",
-            "Apellidos": "Romero",
-            "Telefono": 111
+        "2222": {
+            "Nombres": "mora",
+            "Apellidos": "maro",
+            "Telefono": 88
+        },
+        "888": {
+            "Nombres": "laura",
+            "Apellidos": "gonca",
+            "Telefono": 0
+        },
+        "777": {
+            "Nombres": "marino",
+            "Apellidos": "loca",
+            "Telefono": 555
         }
     },
     "Administrador": {
-        "soy_el_admin": {
-            "Nombres": "Juan",
-            "Apellidos": "Marino",
-            "Fecha de nacimiento": "24/08/1996"
+        "1029": {
+            "Nombres": "kevinn",
+            "Apellidos": "romero",
+            "Telefono": 333
         },
-        "561": {
-            "documento": 561,
-            "Nombres": "fdsfds",
-            "Apellidos": "fdgdf",
-            "Telefono": 3434
-        },
-        "fdsf": {
-            "documento": 66,
-            "Nombres": "fhfh",
-            "Apellidos": "hfgh",
+        "890": {
+            "Nombres": "juan",
+            "Apellidos": "marino",
             "Telefono": 0
         },
-        "hhgfbdf": {
-            "documento": 543654654,
-            "Nombres": "bdsfgds",
-            "Apellidos": "fgdhs",
-            "Telefono": 98
+        "678": {
+            "Nombres": "manuela",
+            "Apellidos": "sigua",
+            "Telefono": 0
         }
     }
 }
